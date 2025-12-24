@@ -1,9 +1,9 @@
 # The Skin Theme For Nintendo DS and DSi
 Top Screen
-![Top Screen](/top.png)
+![Top Screen](/top.jpg)
 
 Bottom Screen
-![Bottom Screen](/bottom.png)
+![Bottom Screen](/bottom.jpg)
 
 This Supports theme for AOS, R4 Wood And TWilight Menu++!
 
